@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Software development, Bytes and Bates]]></title>
+  <link href="http://peel3r.github.io/atom.xml" rel="self"/>
+  <link href="http://peel3r.github.io/"/>
+  <updated>2015-03-29T17:27:14+01:00</updated>
+  <id>http://peel3r.github.io/</id>
+  <author>
+    <name><![CDATA[peel3r]]></name>
+    <email><![CDATA[p@weljakubowski.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

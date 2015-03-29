@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://peel3r.github.io/sitemap.xml 
