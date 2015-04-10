@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://peel3r.github.io/</loc>
+    <loc>https://pawelj.co.uk/2015/04/10/not-so-easy-challenging/</loc>
+    <lastmod>2015-04-10T09:40:19+01:00</lastmod>
   </url>
   <url>
-    <loc>http://peel3r.github.io/categories/</loc>
+    <loc>https://pawelj.co.uk/2015/03/29/how-to-quickly-set-up-a-professional-blog/</loc>
+    <lastmod>2015-03-29T20:05:59+01:00</lastmod>
   </url>
   <url>
-    <loc>http://peel3r.github.io/archives/</loc>
+    <loc>https://pawelj.co.uk/</loc>
   </url>
   <url>
-    <loc>http://peel3r.github.io/posts/</loc>
+    <loc>https://pawelj.co.uk/categories/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/archives/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/posts/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/software-development/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/octopress/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/jekyll/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/blogging/</loc>
   </url>
 </urlset>
