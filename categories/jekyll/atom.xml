@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Jekyll | Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/categories/jekyll/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-04-10T11:33:43+01:00</updated>
+  <updated>2015-04-10T11:37:27+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -51,7 +51,7 @@ deployed to and hosted on GitHub&rsquo;s servers for free.</p>
 
 <p><a href="http://octopress.org/">http://octopress.org/</a></p>
 
-<p><a href="https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide">Markdown syntax guide for formatting Octopress posts</a></p>
+<p><a href="http://daringfireball.net/projects/markdown/syntax">Markdown syntax guide for formatting Octopress posts</a></p>
 ]]></content>
   </entry>
   
