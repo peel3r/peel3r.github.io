@@ -1,129 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad91d819-b5dc-4779-9a03-499105d61564" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/3953273590_704e3899d5_m.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/DNS-config.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/abstract-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/apple-touch-icon-114x114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/apple-touch-icon-144x144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/apple-touch-icon-72x72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/avatar-jake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/hpstr-jekyll-theme-preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.themes/hpstr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/ps_neutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/threaded-blue-on-black-cropped.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/threaded-blue-on-black-cropped.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/threaded-blue-on-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/triangular.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/twitter-card-summary-large-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/witewall_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/2015-03-29-how-to-quickly-set-up-a-professional-blog.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/2015-04-10-not-so-easy-challenging.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_animations.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/plugins/_coderay.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/custom/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_dl-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_elements.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_entryheader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_figures.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/custom/_fonts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_layout.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/_partials.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_pygments.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/partials/_readmore.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_reset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/custom/_styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/base/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/asides/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/after_footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/after_footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/archive_post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/archive_post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/article.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/atom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/post/author.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/background_image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/browser-upgrade.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/post/categories.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_layouts/category_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/post/date.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_layouts/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/asides/delicious.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/disqus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/disqus_comments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/post/disqus_thread.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/doctype.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/facebook_like.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/asides/github.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/github.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/google_analytics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/google_plus_one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/asides/googleplus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/archives/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/categories/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/libs/jXHR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/jake-on-the-web.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/libs/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/modernizr-2.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/custom/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/octopress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_layouts/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/asides/pinboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/pinboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_layouts/post-index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_layouts/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/posts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/asides/recent_posts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/screen.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/scripts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/scripts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/post/sharing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/libs/swfobject-dynamic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/javascripts/twitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_includes/old/twitter_sharing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.rb" afterPath="$PROJECT_DIR$/config.rb" />
-    </list>
+    <list default="true" id="ad91d819-b5dc-4779-9a03-499105d61564" name="Default" comment="" />
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -342,6 +220,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -384,12 +276,12 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2555066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2555066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
