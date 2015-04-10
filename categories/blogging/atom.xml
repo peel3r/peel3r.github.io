@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Blogging | Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/categories/blogging/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-04-10T10:25:16+01:00</updated>
+  <updated>2015-04-10T10:30:55+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -20,7 +20,7 @@
     <id>https://pawelj.co.uk/2015/04/10/not-so-easy-challenging</id>
     <content type="html"><![CDATA[<p>This should be and probably is my first post.</p>
 
-<p>I decided to write this blog for several reasons.
+<p>I decided to write this blog for several reasons. <!-- more -->
   - to become a well recognized software developer.</p>
 
 <p>  Why I think a well recognized developer should write a blog?
