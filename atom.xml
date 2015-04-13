@@ -4,7 +4,7 @@
   <title><![CDATA[Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-04-10T11:37:27+01:00</updated>
+  <updated>2015-04-13T09:08:32+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -12,6 +12,78 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vim the Basics]]></title>
+    <link href="https://pawelj.co.uk/2015/04/12/vim-the-basics/"/>
+    <updated>2015-04-12T19:24:20+01:00</updated>
+    <id>https://pawelj.co.uk/2015/04/12/vim-the-basics</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<h1>The Basics</h1>
+
+<p><img src="https://pawelj.co.uk/images/vim_up_down.png"></p>
+
+<p>  <code>yy</code> - copy a line<br>
+  <code>p</code> - paste below<br />
+  <code>P</code> - paste above<br />
+  <code>w</code> - forward a word<br />
+  <code>u</code> - undo<br />
+  <code>ctrl R</code> - redo<br />
+  <code>cw</code> - change the word<br />
+  <code>dd</code> - delete a line<br />
+  <code>gg</code> - go to the top of the file<br />
+  <code>G</code> - go to the end of the file<br /></p>
+
+<hr />
+
+<p>  <code>yypcw[your text]&lt;esc&gt;</code> - Copy, Paste &amp; Change<br>
+  <code>yy</code> - copy a line<br>
+  <code>p</code> - paste<br>
+  <code>cw</code> - change (one word) Switches to Insert mode<br></p>
+
+<p>   <code>:w !sudo tea example.rb</code> - save content in a new file</p>
+
+<hr />
+
+<h1>Editing Files</h1>
+
+<p><code>:e filename</code> - edit a file<br>
+<code>/foo&lt;enter&gt;</code> -search<br>
+<code>r3</code> - replace next character with &lsquo;3&rsquo;<br>
+<code>n</code> - search again<br>
+<code>N</code> - search backwards</p>
+
+<hr />
+
+<p><code>%s/search/replace/gc</code> - Search and replace<br></p>
+
+<p><code>%</code> - search current buffer<br>
+<code>g</code> - search for all occurrences<br>
+<code>c</code> - ask for confirmation on each match<br></p>
+
+<hr />
+
+<p><code>10G</code> - go to line 10<br>
+<code>gg</code> - go to the top of the file<br>
+<code>G</code> - go to the end of the file<br></p>
+
+<hr />
+
+<p><code>V</code> - visual mode<br>
+<code>/searchterm</code> - search term<br>
+<code>y</code> - copy selected text<br></p>
+
+<hr />
+
+<h2>Move and Paste  -  GkP</h2>
+
+<p><code>G</code> - move to  the end of the file<br>
+<code>k</code> - move one line upward <br>
+<code>P</code> - paste before current line<br></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Just Start Blogging]]></title>
