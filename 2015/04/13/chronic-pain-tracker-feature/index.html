@@ -10,7 +10,7 @@
 <meta charset="utf-8">
 <meta http-equiv="cleartype" content="on">
 
-<title>How to Quickly Set Up a Professional Blog - Software development, Bytes and Bates</title>
+<title>Tracker - Software development, Bytes and Bates</title>
 <meta name="author" content="peel3r">
 
 
@@ -18,7 +18,7 @@
 
 <meta name="description" content="A tech blog by Peel3r. Tips, tricks, hacks, and personal projects.">
 
-<meta name="keywords" content="software development octopress jekyll ">
+<meta name="keywords" content=" ">
 
 
 <!-- http://t.co/dKP3o1e -->
@@ -29,10 +29,10 @@
 <!-- Twitter Cards -->
 
   
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="/images/abstract-6.jpg"
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content"">
   
-  <meta name="twitter:title" content="how to quickly set up a professional blog">
+  <meta name="twitter:title" content="Tracker">
   <meta name="twitter:description" content="A tech blog by Peel3r. Tips, tricks, hacks, and personal projects.">
   <meta name="twitter:creator" content="@peel3r">
 
@@ -40,15 +40,15 @@
 <!-- Open Graph -->
 <meta property="og:local" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://pawelj.co.uk/2015/03/29/how-to-quickly-set-up-a-professional-blog">
-<meta property="og:title" content="how to quickly set up a professional blog">
+<meta property="og:url" content="https://pawelj.co.uk/2015/04/13/chronic-pain-tracker-feature">
+<meta property="og:title" content="Tracker">
 <meta property="og:description" content="A tech blog by Peel3r. Tips, tricks, hacks, and personal projects.">
 
-  <meta property="og:image" content="/images/abstract-6.jpg">
+  <meta property="og:image" content="">
 
 <meta property="og:site_name" content="Software development, Bytes and Bates">
 
-<link rel="canonical" href="https://pawelj.co.uk/2015/03/29/how-to-quickly-set-up-a-professional-blog">
+<link rel="canonical" href="https://pawelj.co.uk/2015/04/13/chronic-pain-tracker-feature">
 <link href="/favicon.png" rel="icon">
 <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
@@ -66,7 +66,7 @@
 
 </head>
 
-<body id="post" class="feature">
+<body id="post" >
 
 <!--[if lt IE 9]><div class="upgrade"><strong><a href="http://whatbrowser.org/">Your browser is quite old!</strong> Why not upgrade to a different browser to better enjoy this site?</a></div><![endif]-->
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
@@ -107,64 +107,98 @@
 
 
 
-<div class="entry-header">
-  
-  <div class="entry-image">
-    <img src="/images/abstract-6.jpg" alt="how to quickly set up a professional blog">
-  </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
-
 
 <div id="main" role="main">
   <article class="hentry">
     <header class="header-title">
       <div class="header-title-wrap">
         
-          <h1 class="entry-title"><a href="/2015/03/29/how-to-quickly-set-up-a-professional-blog/" rel="bookmark" title="how to quickly set up a professional blog">how to quickly set up a professional blog</a></h1>
+          <h1 class="entry-title"><a href="/2015/04/13/chronic-pain-tracker-feature/" rel="bookmark" title="Tracker">Tracker</a></h1>
         
-        <h2>March 29, 2015</h2>
+        <h2>April 13, 2015</h2>
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
-      <p>I needed a simple personal, professional blog.
-There is plenty of solutions right behind the corner - one can said.</p>
+      <p>The tracker is an app to allow users to track things (like chronic pain symptoms)
+and deliver statistics of the pain across time to track specific patterns if any
+for tracked subject.</p>
 
-<p>True.</p>
-
-<blockquote><p>But I didn&#8217;t want  any can have solution I wanted something more sophidticated<br/>that not any one can have - many but not anyone.</p></blockquote>
-
+<p>For this application the only goal is to try out and write a code that works.
+A pooling/tracking application developed with Ruby on Rails, Bootstrap and Google Charts.</p>
 
 <!-- more -->
 
 
-<h1>Requirements</h1>
+<h2>Bootstrapping the project with</h2>
 
 <ul>
-<li>It can&rsquo;t be a Wordpress or Blogger.</li>
-<li>I don&rsquo;t want it to heavy - like  Rails or Sinatra.</li>
-<li>I don&rsquo;t want to have a database.</li>
-<li>I want to host it for free.</li>
-<li>It has to be some  how geeky.</li>
-<li>Easy to deploy but showing already some of my software or web dewelopment skills.</li>
+<li>Ruby 2.2.1</li>
+<li>Rails 4.2.1</li>
+<li>Bundler 1.9.1</li>
 </ul>
 
 
-<p>I had 2 options in my mind either Jekyll or Ghost
-I&rsquo;m a Ruby developer then Jekyll was my natural choice as Ghost is written in
-Python.</p>
+<h3>And custom gems to Gemfile</h3>
 
-<p>Jekyll is a simple, static site generator with the possibility to be easilly
-deployed to and hosted on GitHub&rsquo;s servers for free.</p>
+<ul>
+<li>FactoryGirl-rails</li>
+<li>Haml-rails</li>
+<li>Pry</li>
+<li>Bootstrap-rails</li>
+<li>Minitest</li>
+</ul>
 
-<h1>Quick blog deployment using Octopress - a framework designed for Jekyll</h1>
 
-<p><a href="http://octopress.org/">http://octopress.org/</a></p>
+<h3>Adding a preferred syntax to application.rb</h3>
 
-<p><a href="http://daringfireball.net/projects/markdown/syntax">Markdown syntax guide for formatting Octopress posts</a></p>
+<p>Config.sass.preferred_syntax = :sass</p>
+
+<h2>Defining the business model</h2>
+
+<ol>
+<li>The tracker has users</li>
+<li>User has a name and a password</li>
+<li>User can answer questions/ submit trackers</li>
+<li>Diary has a create date and possibility to have multiple trackers</li>
+<li>Diary has multiple trackers , trackers have multiple diaries</li>
+<li>Tracker has a name a value and/or attributes</li>
+<li>Tracker has a kind</li>
+<li>Tracker has a list of possible answers</li>
+<li>Tracker has a list of multiple answers</li>
+<li>Possible answer has a name</li>
+<li>Multiple answer has a name</li>
+<li>User has statistics from submitted diaries</li>
+<li>User can search for specific diaries</li>
+</ol>
+
+
+<p><img src="/images/painTracker.png"></p>
+
+<h2>Creating models like so:</h2>
+
+<ul>
+<li>Pools</li>
+<li>Trackers / Questions</li>
+<li>Multi choice Trackers / Questions</li>
+<li>Replies</li>
+<li>Answers</li>
+</ul>
+
+
+<h2>Creating the front end for Statistics with</h2>
+
+<ul>
+<li>Google Charts</li>
+</ul>
+
+
+<h2>Conclusions an code follow the link</h2>
+
+<p> See <a href="https://github.com/peel3r/tracker" title="https://github.com/peel3r/tracker">&ldquo;Tracker&rsquo;s&rdquo; code on Github</a>.</p>
 
       <footer class="entry-meta">
-        <span class="entry-tags"><a href="/categories/#software development" title="Pages tagged software development" class="tag">software development</a><a href="/categories/#octopress" title="Pages tagged octopress" class="tag">octopress</a><a href="/categories/#jekyll" title="Pages tagged jekyll" class="tag">jekyll</a></span>
-        <span><a href="/2015/03/29/how-to-quickly-set-up-a-professional-blog/" rel="bookmark" title="how to quickly set up a professional blog">how to quickly set up a professional blog</a> was published on <span class="entry-date date published updated"><time datetime="2015-03-29T20:05:59+01:00">March 29, 2015</time></span></span>
+        <span class="entry-tags"></span>
+        <span><a href="/2015/04/13/chronic-pain-tracker-feature/" rel="bookmark" title="Tracker">Tracker</a> was published on <span class="entry-date date published updated"><time datetime="2015-04-13T21:11:22+01:00">April 13, 2015</time></span></span>
         
         <span class="author vcard"><span class="fn"><a href="https://pawelj.co.uk" title="About peel3r">peel3r</a></span></span>
         
@@ -174,23 +208,23 @@ deployed to and hosted on GitHub&rsquo;s servers for free.</p>
       <div class="read-more">
         
           <div class="read-more-header">
-            <a href="/2015/04/13/chronic-pain-tracker-feature/" class="btn">Read More</a>
+            <a href="/2015/04/12/vim-the-basics/" class="btn">Read More</a>
           </div><!-- /.read-more-header -->
           <div class="read-more-content">
-            <h3><a href="/2015/04/13/chronic-pain-tracker-feature/" title="Tracker">Tracker</a></h3>
-            <p>The tracker is an app to allow users to track things (like chronic pain symptoms)and deliver statistics of the pain across time to track &hellip;&hellip; <a href="/2015/04/13/chronic-pain-tracker-feature/"> Continue reading</a></p>
+            <h3><a href="/2015/04/12/vim-the-basics/" title="vim the basics">vim the basics</a></h3>
+            <p>The Basics  yy - copy a line  p - paste below  P - paste above  w - forward a word  u - undo  ctrl R - redo  cw - change the word  dd - &hellip;&hellip; <a href="/2015/04/12/vim-the-basics/"> Continue reading</a></p>
           </div><!-- /.read-more-content -->
         
         <div class="read-more-list">
           
             <div class="list-item">
-              <h4><a href="/2015/04/12/vim-the-basics/" title="vim the basics">vim the basics</a></h4>
-              <span>Published on April 12, 2015</span>
+              <h4><a href="/2015/04/10/not-so-easy-challenging/" title="Just start blogging">Just start blogging</a></h4>
+              <span>Published on April 10, 2015</span>
             </div><!-- /.list-item -->
           
             <div class="list-item">
-              <h4><a href="/2015/04/10/not-so-easy-challenging/" title="Just start blogging">Just start blogging</a></h4>
-              <span>Published on April 10, 2015</span>
+              <h4><a href="/2015/03/29/how-to-quickly-set-up-a-professional-blog/" title="how to quickly set up a professional blog">how to quickly set up a professional blog</a></h4>
+              <span>Published on March 29, 2015</span>
             </div><!-- /.list-item -->
           
         </div><!-- /.read-more-list -->

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Vim | Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/categories/vim/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-04-13T09:08:32+01:00</updated>
+  <updated>2015-04-19T19:16:08+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -82,6 +82,12 @@
 <p><code>G</code> - move to  the end of the file<br>
 <code>k</code> - move one line upward <br>
 <code>P</code> - paste before current line<br></p>
+
+<hr />
+
+<p><code>:e .</code> - to view a directory list that you can navigate with <strong>h j k l</strong></p>
+
+<h2>Arranging windows</h2>
 ]]></content>
   </entry>
   
