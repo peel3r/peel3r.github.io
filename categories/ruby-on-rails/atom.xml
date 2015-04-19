@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ruby on Rails | Software development, Bytes and Bates]]></title>
+  <link href="https://pawelj.co.uk/categories/ruby-on-rails/atom.xml" rel="self"/>
+  <link href="https://pawelj.co.uk/"/>
+  <updated>2015-04-19T19:35:07+01:00</updated>
+  <id>https://pawelj.co.uk/</id>
+  <author>
+    <name><![CDATA[peel3r]]></name>
+    <email><![CDATA[p@weljakubowski.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tracker]]></title>
+    <link href="https://pawelj.co.uk/2015/04/13/chronic-pain-tracker-feature/"/>
+    <updated>2015-04-13T21:11:22+01:00</updated>
+    <id>https://pawelj.co.uk/2015/04/13/chronic-pain-tracker-feature</id>
+    <content type="html"><![CDATA[<p>The tracker is an app to allow users to track things (like chronic pain symptoms)
+and deliver statistics of the pain across time to track specific patterns if any
+for tracked subject.</p>
+
+<p>For this application the only goal is to try out and write a code that works.
+A pooling/tracking application developed with Ruby on Rails, Bootstrap and Google Charts.</p>
+
+<!-- more -->
+
+
+<h2>Bootstrapping the project with</h2>
+
+<ul>
+<li>Ruby 2.2.1</li>
+<li>Rails 4.2.1</li>
+<li>Bundler 1.9.1</li>
+</ul>
+
+
+<h3>And custom gems to Gemfile</h3>
+
+<ul>
+<li>FactoryGirl-rails</li>
+<li>Haml-rails</li>
+<li>Pry</li>
+<li>Bootstrap-rails</li>
+<li>Minitest</li>
+</ul>
+
+
+<h3>Adding a preferred syntax to application.rb</h3>
+
+<p>Config.sass.preferred_syntax = :sass</p>
+
+<h2>Defining the business model</h2>
+
+<ol>
+<li>The tracker has users</li>
+<li>User has a name and a password</li>
+<li>User can answer questions/ submit trackers</li>
+<li>Diary has a create date and possibility to have multiple trackers</li>
+<li>Diary has multiple trackers , trackers have multiple diaries</li>
+<li>Tracker has a name a value and/or attributes</li>
+<li>Tracker has a kind</li>
+<li>Tracker has a list of possible answers</li>
+<li>Tracker has a list of multiple answers</li>
+<li>Possible answer has a name</li>
+<li>Multiple answer has a name</li>
+<li>User has statistics from submitted diaries</li>
+<li>User can search for specific diaries</li>
+</ol>
+
+
+<p><img src="/images/painTracker.png"></p>
+
+<h2>Creating models like so:</h2>
+
+<ul>
+<li>Pools</li>
+<li>Trackers / Questions</li>
+<li>Multi choice Trackers / Questions</li>
+<li>Replies</li>
+<li>Answers</li>
+</ul>
+
+
+<h2>Creating the front end for Statistics with</h2>
+
+<ul>
+<li>Google Charts</li>
+</ul>
+
+
+<h2>Conclusions an code follow the link</h2>
+
+<p> See <a href="https://github.com/peel3r/tracker" title="https://github.com/peel3r/tracker">&ldquo;Tracker&rsquo;s&rdquo; code on Github</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
