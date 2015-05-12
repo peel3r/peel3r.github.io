@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Javascript | Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/categories/javascript/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-05-12T13:14:51+01:00</updated>
+  <updated>2015-05-12T13:26:50+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -22,6 +22,13 @@
 <button class="next">Next</button>
 <input type="checkbox" id="autoplay" />
 <label for="autoplay" class="button">Autoplay</label></p>
+
+<h4>Click on fields to make them alive according to the game rules:</h4>
+
+<p>  <code>Any live cell with fewer than two live neighbours dies, as if caused by under-population.</code>
+  <code>Any live cell with two or three live neighbours lives on to the next generation.</code>
+  <code>Any live cell with more than three live neighbours dies, as if by overcrowding.</code>
+  <code>Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.</code></p>
 
 <table id="grid"></table>
 
