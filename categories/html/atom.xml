@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Html | Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/categories/html/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-05-12T13:34:59+01:00</updated>
+  <updated>2015-05-12T13:36:01+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -34,7 +34,7 @@
 
 
 <p>See <a href="https://github.com/peel3r/cgol" title="https://github.com/peel3r/cgol">&ldquo;GAME of LIFE&rdquo; code on Github</a>.
-See <a href="" title="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">&ldquo;Look at Wikipedia Examples&rdquo; </a>
+See <a href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" title="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">&ldquo;Look at Wikipedia Examples&rdquo; </a>
 <footer></footer></p>
 
 <script src="https://pawelj.co.uk/images/life.js"></script>
