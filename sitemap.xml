@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://pawelj.co.uk/2015/05/12/conweys-classic-game-of-life-without-canvas/</loc>
+    <lastmod>2015-05-12T12:13:19+01:00</lastmod>
+  </url>
+  <url>
     <loc>https://pawelj.co.uk/2015/04/13/chronic-pain-tracker-feature/</loc>
     <lastmod>2015-04-13T21:11:22+01:00</lastmod>
   </url>
@@ -51,5 +55,14 @@
   </url>
   <url>
     <loc>https://pawelj.co.uk/categories/google-charts/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/javascript/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/css/</loc>
+  </url>
+  <url>
+    <loc>https://pawelj.co.uk/categories/html/</loc>
   </url>
 </urlset>

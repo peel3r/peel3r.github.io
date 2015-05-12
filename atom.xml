@@ -4,7 +4,7 @@
   <title><![CDATA[Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-04-19T20:41:34+01:00</updated>
+  <updated>2015-05-12T13:06:46+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Conwey's Classic Game of Life Without Canvas]]></title>
+    <link href="https://pawelj.co.uk/2015/05/12/conweys-classic-game-of-life-without-canvas/"/>
+    <updated>2015-05-12T12:13:19+01:00</updated>
+    <id>https://pawelj.co.uk/2015/05/12/conweys-classic-game-of-life-without-canvas</id>
+    <content type="html"><![CDATA[<p><link rel="stylesheet" href="https://pawelj.co.uk/images/style.css" />
+<button class="next">Next</button>
+<input type="checkbox" id="autoplay" />
+<label for="autoplay" class="button">Autoplay</label></p>
+
+<table id="grid"></table>
+
+
+<p>See <a href="https://github.com/peel3r/tracker" title="https://github.com/peel3r/cgol">&ldquo;Tracker&rsquo;s&rdquo; code on Github</a>.
+<footer></footer></p>
+
+<script src="https://pawelj.co.uk/images/life.js"></script>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tracker]]></title>
