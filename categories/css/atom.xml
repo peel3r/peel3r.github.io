@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Css | Software development, Bytes and Bates]]></title>
   <link href="https://pawelj.co.uk/categories/css/atom.xml" rel="self"/>
   <link href="https://pawelj.co.uk/"/>
-  <updated>2015-05-12T13:06:46+01:00</updated>
+  <updated>2015-05-12T13:14:51+01:00</updated>
   <id>https://pawelj.co.uk/</id>
   <author>
     <name><![CDATA[peel3r]]></name>
@@ -26,7 +26,7 @@
 <table id="grid"></table>
 
 
-<p>See <a href="https://github.com/peel3r/tracker" title="https://github.com/peel3r/cgol">&ldquo;Tracker&rsquo;s&rdquo; code on Github</a>.
+<p>See <a href="https://github.com/peel3r/cgol" title="https://github.com/peel3r/cgol">&ldquo;GAME of LIFE&rdquo; code on Github</a>.
 <footer></footer></p>
 
 <script src="https://pawelj.co.uk/images/life.js"></script>
